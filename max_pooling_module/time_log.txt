@@ -1,0 +1,4 @@
+Time taken for first 2x2 block: 1 time units
+Time taken for second 2x2 block: 1 time units
+Time taken for third 2x2 block: 1 time units
+Time taken for fourth 2x2 block: 1 time units
