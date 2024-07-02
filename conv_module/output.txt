@@ -1,0 +1,10 @@
+Convolution Output:
+conv_out[0] =     0
+conv_out[1] =     2
+conv_out[2] =     3
+conv_out[3] =     0
+conv_out[4] =     2
+conv_out[5] =     3
+conv_out[6] =     0
+conv_out[7] =     2
+conv_out[8] =     3
